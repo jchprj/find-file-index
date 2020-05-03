@@ -46,4 +46,5 @@ sss4.mp3 => sss4.mp3
 
 * Could support more complex cases
 * Use some command library for parameters
+* Add leading 0 in case of large numbers
 * ...
