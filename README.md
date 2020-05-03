@@ -10,14 +10,14 @@ node findfileindex.js folder pattern unrenamedFilesPattern
 Default value: current folder
 
 * pattern  
-Show preview of rename output, $1 means source filename, $2 means extracted index if any
-Default value: $1 => $2_$1
+Default value: $1 => $2_$1  
+Show preview of rename output, $1 means source filename, $2 means extracted index if any  
 
 * unrenamedFilesPattern  
-Determine if output contains unrenamed files, $1 means source filename, no $2 cause no extracted index
-Default value: false, means don't show unrenamed files.
+Default value: false, means don't show unrenamed files.  
+Determine if output contains unrenamed files, $1 means source filename, no $2 cause no extracted index  
 
-# Example
+# Examples
 
 - case 1  
 ```
